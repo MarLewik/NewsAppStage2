@@ -1,0 +1,73 @@
+<resources>
+    <string name="appName">Guardians Today News</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Today News Settings</string>
+
+    <string name="settings_search_label">Search</string>
+    <string name="settings_Search_default" translatable="false"></string>
+    <string name="settings_search_key" translatable="false">SearchTerm</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <string name="settings_section_label">Section</string>
+    <string name="settings_section_key" translatable="false">section</string>
+    <string name="settings_section_default" translatable="false"></string>
+    <string name="settings_section_default_label">Default</string>
+    <string name="settings_section_default_value">default</string>
+    <string name="settings_section_artanddesign_label">Art and Design</string>
+    <string name="settings_section_artanddesign_value" translatable="false">artanddesign</string>
+    <string name="settings_section_books_label">Books</string>
+    <string name="settings_section_books_value" translatable="false">books</string>
+    <string name="settings_section_business_label">Business</string>
+    <string name="settings_section_business_value" translatable="false">business</string>
+    <string name="settings_section_cities_label">Cities</string>
+    <string name="settings_section_cities_value" translatable="false">cities</string>
+    <string name="settings_section_education_label">Education</string>
+    <string name="settings_section_education_value" translatable="false">education</string>
+    <string name="settings_section_environment_label">Environment</string>
+    <string name="settings_section_environment_value" translatable="false">environment</string>
+    <string name="settings_section_football_label">Football</string>
+    <string name="settings_section_football_value" translatable="false">football</string>
+
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_newest_label</item>
+        <item>@string/settings_order_by_oldest_label</item>
+        <item>@string/settings_order_by_relevance_label</item>
+    </string-array>
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_newest_value</item>
+        <item>@string/settings_order_by_oldest_value</item>
+        <item>@string/settings_order_by_relevance_value</item>
+    </string-array>
+    <string-array name="settings_section_labels">
+        <item>@string/settings_section_default_label</item>
+        <item>@string/settings_section_artanddesign_label</item>
+        <item>@string/settings_section_books_label</item>
+        <item>@string/settings_section_business_label</item>
+        <item>@string/settings_section_cities_label</item>
+        <item>@string/settings_section_education_label</item>
+        <item>@string/settings_section_environment_label</item>
+        <item>@string/settings_section_football_label</item>
+    </string-array>
+    <string-array name="settings_section_values">
+        <item>@string/settings_section_default_value</item>
+        <item>@string/settings_section_artanddesign_value</item>
+        <item>@string/settings_section_books_value</item>
+        <item>@string/settings_section_business_value</item>
+        <item>@string/settings_section_cities_value</item>
+        <item>@string/settings_section_education_value</item>
+        <item>@string/settings_section_environment_value</item>
+        <item>@string/settings_section_football_value</item>
+    </string-array>
+
+</resources>
+
